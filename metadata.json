@@ -1,0 +1,6 @@
+{
+  "name": "衛生棉補充登記",
+  "description": "每日登記1樓、2樓、3樓衛生棉補充與消耗數量，支援每月總計與自訂區間統計分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
